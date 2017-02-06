@@ -1,0 +1,4 @@
+config:
+  mavaleurdeconf: Hello world from ${config.configtype}
+  configtype: File application.yml on gitHub!
+
