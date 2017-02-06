@@ -1,4 +1,3 @@
 config:
   mavaleurdeconf: Hello world from ${config.configtype}
-  configtype: File application.yml on gitHub!
-
+  configtype: File application.yml on gitHub! From TAG 1.0
